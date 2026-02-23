@@ -15,6 +15,9 @@ public static void gitData1() {
 		int a1=4443;
 		System.out.println(a1);
 		
+		System.out.println("Branch A start the work");
+		String data = "Test Data New Verified";
+		System.out.println(data);
 		long b = 7888777;
 		
 		if(b==565) {
